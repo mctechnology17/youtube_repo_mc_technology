@@ -6,7 +6,7 @@ Redes | [Reddit](https://www.reddit.com/user/mctechnology17), [YouTube](https://
 Projectos | [Jailbreak Repo](https://mctechnology17.github.io), [vim-tools](https://github.com/mctechnology17/vim-tools), [WEB](https://mctechnology17.com), [UI Glitch](https://repo.packix.com/package/com.mctechnology.uiglitch/)
 
 - [Introducción](#Introducción)
-- [Estructura de Respositorio](#Estructura)
+- [Estructura de Respositorio](#Estructura de Repositorio)
 - [Licencia](#Licencia)
 
 ----
@@ -16,7 +16,7 @@ Projectos | [Jailbreak Repo](https://mctechnology17.github.io), [vim-tools](http
 
 zsh,vim,nvim,docker,fonts,iterm2,latex,makefile,p10k,readme,sh,yabai
 
-## Estructura
+## Estructura de Repositorio
 
 - [doc](doc)
 - [docker](docker)
