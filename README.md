@@ -7,6 +7,7 @@ Projectos | [Jailbreak Repo](https://mctechnology17.github.io), [vim-tools](http
 
 - [Introducción](#Introducción)
 - [Estructura de Respositorio](#Estructura)
+- [Ultimo video subido a YouTube](#Video)
 - [Licencia](#Licencia)
 
 ----
@@ -14,10 +15,8 @@ Projectos | [Jailbreak Repo](https://mctechnology17.github.io), [vim-tools](http
 ## Introducción
 - Respositorio para mi canal de [YouTube](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber)
 
-zsh,vim,nvim,docker,fonts,iterm2,latex,makefile,p10k,readme,sh,yabai
-
 ## Estructura
-
+Aqui encuentras una estructura de la repo de los archivos subidos.
 - [doc](doc)
 - [docker](docker)
 - [fonts](fonts)
@@ -33,6 +32,15 @@ zsh,vim,nvim,docker,fonts,iterm2,latex,makefile,p10k,readme,sh,yabai
 - [vim](vim)
 - [yabai](yabai)
 - [zsh](zsh)
+
+## Video
+Este es mi video más reciente a YouTube
+
+<img src="https://www.youtube.com/watch?v=gKkFuM8Ky1I&t=88s" height="450">
+
+Este es mi Video más visto en YouTube
+
+<img src="https://www.youtube.com/watch?v=KQ7OgQYRgZc" height="450">
 
 ## Licencia
 [Licencia](./LICENSE)
