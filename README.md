@@ -17,22 +17,22 @@ Projectos | [Jailbreak Repo](https://mctechnology17.github.io), [vim-tools](http
 zsh,vim,nvim,docker,fonts,iterm2,latex,makefile,p10k,readme,sh,yabai
 
 ## Estructura
-.
-├── [doc](doc)
-├── [docker](docker)
-├── [fonts](fonts)
-├── [iterm2](iterm2)
-├── [latex](latex)
-├── [LICENSE](LICENSE)
-├── [makefile](makefile)
-├── [nvim](nvim)
-├── [p10k](p10k)
-├── [readme](readme)
-├── [README.md](README.md)
-├── [sh](sh)
-├── [vim](vim)
-├── [yabai](yabai)
-└── [zsh](zsh)
+
+- [doc](doc)
+- [docker](docker)
+- [fonts](fonts)
+- [iterm2](iterm2)
+- [latex](latex)
+- [LICENSE](LICENSE)
+- [makefile](makefile)
+- [nvim](nvim)
+- [p10k](p10k)
+- [readme](readme)
+- [README.md](README.md)
+- [sh](sh)
+- [vim](vim)
+- [yabai](yabai)
+- [zsh](zsh)
 
 ## Licencia
 [Licencia](./LICENSE)
