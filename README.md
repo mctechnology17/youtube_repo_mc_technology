@@ -39,8 +39,7 @@ Este es mi Video más reciente en YouTube
 ![Este es mi video más reciente en YouTube](https://www.youtube.com/watch?v=gKkFuM8Ky1I&t=88s)
 
 Este es mi Video más visto en YouTube
-
-![Este es mi Video más visto en YouTube](https://www.youtube.com/watch?v=KQ7OgQYRgZc)
+[![Mira el video aquí](https://i.ytimg.com/vi/KQ7OgQYRgZc/maxresdefault.jpg)](https://www.youtube.com/watch?v=KQ7OgQYRgZc)
 
 ## Licencia
 [Licencia](./LICENSE)
