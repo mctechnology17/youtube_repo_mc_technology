@@ -34,11 +34,10 @@ Aqui encuentras una estructura de la repo de los archivos subidos.
 - [zsh](zsh)
 
 ## Video
-Este es mi Video más reciente en YouTube
+- Este es mi Video más reciente en YouTube
+[![Mira el video aquí](https://i.ytimg.com/vi/gKkFuM8Ky1I/maxresdefault.jpg)](https://www.youtube.com/watch?v=gKkFuM8Ky1I&t=88s)
 
-![Este es mi video más reciente en YouTube](https://www.youtube.com/watch?v=gKkFuM8Ky1I&t=88s)
-
-Este es mi Video más visto en YouTube
+- Este es mi Video más visto en YouTube
 [![Mira el video aquí](https://i.ytimg.com/vi/KQ7OgQYRgZc/maxresdefault.jpg)](https://www.youtube.com/watch?v=KQ7OgQYRgZc)
 
 ## Licencia
