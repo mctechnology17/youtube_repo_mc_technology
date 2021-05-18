@@ -7,6 +7,7 @@ Projectos | [Jailbreak Repo](https://mctechnology17.github.io), [vim-tools](http
 
 - [Introducción](#Introducción)
 - [Personalisar Windows](#Pasos)
+- [Suscribirse es agradecer :D](#Suscríbete)
 - [Ultimo video subido a YouTube](#Video)
 - [Licencia](#Licencia)
 
