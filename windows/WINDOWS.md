@@ -43,7 +43,7 @@ Aqui encuentras una estructura de la repo de los archivos subidos.
 				- Instalar para todos
 				- Recuerda instalar los 4 Archivos
 ## Suscríbete
-- Recuerda que si te sirvio puedes hacermelo saber, suscribiendote a mi canal, dandole me gusta o compartiendo el video.
+- Recuerda que si te sirvio puedes hacermelo saber, suscribiendote a mi [canal](https://www.youtube.com/watch?v=gKkFuM8Ky1I&t=88s), dandole me gusta o compartiendo el video.
 - Tambien puedes apoyarme directamente por [aquí](https://www.paypal.me/mctechnology17)
 - [![MC Technology](../doc/paypal_qr.png)](https://www.paypal.me/mctechnology17)
 
