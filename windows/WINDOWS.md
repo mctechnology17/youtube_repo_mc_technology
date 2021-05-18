@@ -44,7 +44,6 @@ Aqui encuentras una estructura de la repo de los archivos subidos.
 ## Suscríbete
 - Recuerda que si te sirvio puedes hacermelo saber, suscribiendote a mi canal, dandole me gusta o compartiendo el video.
 - Tambien puedes apoyarme directamente por [aquí](https://www.paypal.me/mctechnology17)
-- (Paypal)
 - [![MC Technology](../doc/paypal_qr.png)](https://www.paypal.me/mctechnology17)
 
 
