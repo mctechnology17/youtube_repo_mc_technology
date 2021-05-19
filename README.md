@@ -17,7 +17,9 @@ Projectos | [Jailbreak Repo](https://mctechnology17.github.io), [vim-tools](http
 
 ## Estructura
 Aqui encuentras una estructura de la repo de los archivos subidos.
-- [doc](doc)
+- [windows](windows)
+- [linux](linux)
+- [ios](ios)
 - [docker](docker)
 - [fonts](fonts)
 - [iterm2](iterm2)
@@ -42,4 +44,3 @@ Aqui encuentras una estructura de la repo de los archivos subidos.
 
 ## Licencia
 [Licencia](./LICENSE)
-
