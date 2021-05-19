@@ -17,6 +17,10 @@ Projectos | [Jailbreak Repo](https://mctechnology17.github.io), [vim-tools](http
 - Respositorio para mi canal de [YouTube](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber)
 
 ## Pasos
+- Ver manual de cada comando
+```
+man comando
+```
 
 - basicos
 ```
