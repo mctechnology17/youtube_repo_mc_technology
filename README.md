@@ -3,7 +3,7 @@
 <div align="center">
   <br> <h1> 🇳🇮 MC Technology repo para YouTube 🇩🇪  </h1>
 </div>
-<h4 align="center">
+<h4 align="left">
   <a>Social media 📲</a>
   <a href="https://twitter.com/mctechnology17" target="_blank"><code>Twitter</code></a>
   <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber" target="_blank"><code>YouTube</code></a>
@@ -14,7 +14,7 @@
   <a href="https://t.me/mctechnology" target="_blank"><code>TikTok</code></a>
   <a href="https://www.reddit.com/user/mctechnology17" target="_blank"><code>Reddit</code></a>
 </h4>
-<h4 align="center">
+<h4 align="left">
   <a>Last projects 👉</a>
   <a href="https://github.com/mctechnology17/vim-tools" target="_blank"><code>vim-tools</code></a>
   <a href="https://mctechnology17.com" target="_blank"><code>WEB</code></a>
