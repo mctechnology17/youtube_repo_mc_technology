@@ -33,7 +33,16 @@
 
 ----
 
-[![Mira el video aquí](https://i.ytimg.com/vi/gKkFuM8Ky1I/maxresdefault.jpg)](https://www.youtube.com/watch?v=gKkFuM8Ky1I&t=88s) [![Mira el video aquí](https://i.ytimg.com/vi/KQ7OgQYRgZc/maxresdefault.jpg)](https://www.youtube.com/watch?v=KQ7OgQYRgZc) [![Mira el video aquí](https://i.ytimg.com/vi/KQ7OgQYRgZc/maxresdefault.jpg)](https://www.youtube.com/watch?v=KQ7OgQYRgZc)
+<div align="left">
+  <h4>
+  <a href="https://www.youtube.com/watch?v=gKkFuM8Ky1I&t=88s">
+    <img alt="" src="https://i.ytimg.com/vi/gKkFuM8Ky1I/maxresdefault.jpg" width="600"> |
+  <a href="https://www.youtube.com/watch?v=KQ7OgQYRgZc">
+    <img alt="" src="https://i.ytimg.com/vi/KQ7OgQYRgZc/maxresdefault.jpg" width="600"> |
+  <a href="https://www.youtube.com/watch?v=KQ7OgQYRgZc">
+    <img alt="" src="https://i.ytimg.com/vi/KQ7OgQYRgZc/maxresdefault.jpg" width="600"> |
+  </h4>
+</div>
 
 ----
 
