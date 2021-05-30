@@ -33,16 +33,6 @@
 
 ----
 
-<div align="left">
-  <h4>
-  <a href="https://www.youtube.com/watch?v=gKkFuM8Ky1I&t=88s">
-    <img alt="" src="https://i.ytimg.com/vi/gKkFuM8Ky1I/maxresdefault.jpg" width="600">
-     href="https://www.youtube.com/watch?v=KQ7OgQYRgZc">
-    <img alt="" src="https://i.ytimg.com/vi/KQ7OgQYRgZc/maxresdefault.jpg" width="600">
-     href="https://www.youtube.com/watch?v=KQ7OgQYRgZc">
-    <img alt="" src="https://i.ytimg.com/vi/KQ7OgQYRgZc/maxresdefault.jpg" width="600">
-  </h4>
-</div>
 
 ----
 
@@ -71,7 +61,13 @@ Aqui encuentras una estructura de la repo de los archivos subidos.
 
 ## Video
 - Este es mi Video más reciente en YouTube
-[![Mira el video aquí](https://i.ytimg.com/vi/gKkFuM8Ky1I/maxresdefault.jpg)](https://www.youtube.com/watch?v=gKkFuM8Ky1I&t=88s)
+
+<div align="center">
+  <h4>
+  <a href="https://www.youtube.com/watch?v=gKkFuM8Ky1I&t=88s">
+    <img alt="" src="https://i.ytimg.com/vi/gKkFuM8Ky1I/maxresdefault.jpg" width="600">
+  </h4>
+</div>
 
 - Este es mi Video más visto en YouTube
 [![Mira el video aquí](https://i.ytimg.com/vi/KQ7OgQYRgZc/maxresdefault.jpg)](https://www.youtube.com/watch?v=KQ7OgQYRgZc)
