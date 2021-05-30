@@ -33,9 +33,6 @@
 
 ----
 
-
-----
-
 ## Introducción
 - Respositorio para mi canal de [YouTube](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber)
 
