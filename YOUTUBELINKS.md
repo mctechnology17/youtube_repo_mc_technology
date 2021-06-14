@@ -31,6 +31,6 @@
 ----
 
 ## Curso de VIM/NVIM completo en español #1
-[![VIM](VIM)](https://www.vim.org/download.php)
-[![Brew](Brew)](https://formulae.brew.sh/formula/vim#default)
-[![Faust](Faust)](https://github.com/martinth/mobverdb/blob/master/faust.txt)
+[VIM](https://www.vim.org/download.php)
+[Brew](https://formulae.brew.sh/formula/vim#default)
+[Faust](https://github.com/martinth/mobverdb/blob/master/faust.txt)
