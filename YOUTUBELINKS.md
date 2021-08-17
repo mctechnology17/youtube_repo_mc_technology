@@ -1,4 +1,4 @@
-[![MC Technology](doc/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
+[![MC Technology](https://github.com/mctechnology17/mctechnology17/blob/main/src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
 
 <div align="center">
   <br> <h1> 🇳🇮 MC Technology repo para YouTube 🇩🇪  </h1>
