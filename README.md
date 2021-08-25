@@ -140,6 +140,15 @@
 </tr>
 
 ---
+
+## Acerca de este repositorio
+- Este es un repositorio para subir material
+  o contenido que explico en mi canal de [YouTube](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber).
+  Si aun no estas suscrito, te puedes suscribira aún, es gratis :D!
+  eso me ayudaría a motivarme mucho para seguir subiendo contenido.
+
+---
+
 <h3 align="left"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
 
 <!-- YOUTUBE:START -->
@@ -153,12 +162,6 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
 
 ---
-
-## Introducción
-- Este es un repositorio para subir material
-  o contenido que explico en mi canal de [YouTube](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber).
-  Si aun no estas suscrito, te puedes suscribira aún, es gratis :D!
-  eso me ayudaría a motivarme mucho para seguir subiendo contenido.
 
 ## Archivos
 Aqui encuentras los archivos del repositorio, como `.vimrc init.vim .zshrc` entre otros.
@@ -187,7 +190,7 @@ Los aportes por supuesto que tambien son bienbenidos!
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>
 </p>
 
-<h3 align="right"><img src="https://github.com/mctechnology17/youtube_repo_mc_technology/blob/main/LICENSE" > LICENCIA</h3>
+<h3 align="right"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology/blob/main/LICENSE" target="_blank"><code>LICENCIA</code></a> </h3>
 
 [website]: https://mctechnology17.com
 [twitter]: https://twitter.com/mctechnology17
