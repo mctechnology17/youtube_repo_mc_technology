@@ -1,6 +1,6 @@
 [![MC Technology](https://github.com/mctechnology17/mctechnology17/blob/main/src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
 
-<h1 align="center">Hi there, I'm Marcos - MC Technology <img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/wave.gif" width="30px"></h1>
+<h1 align="center">Hola, soy Marcos - MC Technology <img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/wave.gif" width="30px"></h1>
 
 <table align="right">
 <tr>
@@ -21,20 +21,20 @@
 </table>
 
 <details>
-  <summary>:zap: About me!</summary>
+  <summary>:zap: Acerca de mí!</summary>
 
-### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
-- 🦾 I love the PowerLifting!
-- 🤓  I’m currently learning everything
-- 👾  I am very curious and that is why you start studying programming
-- 🗒  I am currently very obsected with learning vimscript
+### 🔬 Clínico Bioanalista y actualmente estoy cursando un Máster en Bioinformática 💻!!
+- 🦾 Me encanta el powerlifting!
+- 🤓  Actualmente estoy aprendiendo todo
+- 👾  Tengo mucha curiosidad y por eso empiezas a estudiar programación
+- 🗒  Actualmente estoy muy obsesionado con el aprendizaje de vimscript
 </details>
 
 <br />
 
 ---
 
-<h3 align="center"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/cabeza.GIF" width="30px" height="30px"> Latest Projects</h3>
+<h3 align="center"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/cabeza.GIF" width="30px" height="30px"> Últimos proyectos</h3>
 
 <tr>
 <td>
@@ -45,7 +45,7 @@
 <img align="right" alt=yomero" width="450px" height="450px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/pokemon.GIF">
 <td> <h4 align="left"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a> </h4>
   <details>
-    <summary>see more...</summary>
+    <summary>ver más...</summary>
 
     A nice repository to share my knowledge
     and help the development community on
@@ -62,7 +62,7 @@
 </td>
 <td> <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
   <details>
-    <summary>see more...</summary>
+    <summary>ver más...</summary>
 
     VimTools is a plugin to complement your editor
     favorite text / code vim, vi, nvim, Gvim or MacVim.
@@ -77,7 +77,7 @@
 </td>
 <td> <h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
   <details>
-    <summary>see more...</summary>
+    <summary>ver más...</summary>
 
     A small contribution to the Jailbreaker community
 
@@ -91,7 +91,7 @@
 </td>
 <td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
   <details>
-    <summary>see more...</summary>
+    <summary>ver más...</summary>
 
     UI Glitch is here!!!
     Give your iPhone a different look with UI Glitch.
@@ -110,7 +110,7 @@
 </td>
 <td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4>
   <details>
-    <summary>see more...</summary>
+    <summary>ver más...</summary>
 
     UI Switches
     Give your iPhone a different look with UI Switches the UI family by MC Technology! Designed for UI lovers!
@@ -128,7 +128,7 @@
 </td>
 <td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a> </h4>
   <details>
-    <summary>see more...</summary>
+    <summary>ver más...</summary>
 
     UI Badge + Badgemoji
     Brings a cool look to your iPhone and leave the boredom! Designed for UI lovers!
@@ -149,7 +149,7 @@
 
 ---
 
-<h3 align="left"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
+<h3 align="left"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/youtube.gif" width="70px" height="25px"> últimos videos</h3>
 
 <!-- YOUTUBE:START -->
 - [Personalizar Linux, Mac, iPhone y iPad con Neofetch en español | MC Technology](https://www.youtube.com/watch?v=gKkFuM8Ky1I)
