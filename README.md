@@ -178,27 +178,17 @@
 ----
 
 ## Introducción
-- Respositorio para mi canal de [YouTube](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber)
+- Este es un repositorio para subir material
+  o contenido que explico en mi canal de [YouTube](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber).
+  Si aun no estas suscrito, te puedes suscribira aún, es gratis :D!
+  eso me ayudaría a motivarme mucho para seguir subiendo contenido
 
 ## Estructura
 Aqui encuentras una estructura de la repo de los archivos subidos.
-- [windows](windows)
-- [linux](linux)
-- [ios](ios)
-- [docker](docker)
-- [fonts](fonts)
-- [iterm2](iterm2)
-- [latex](latex)
-- [LICENSE](LICENSE)
-- [makefile](makefile)
-- [nvim](nvim)
-- [p10k](p10k)
-- [readme](readme)
-- [README.md](README.md)
-- [sh](sh)
-- [vim](vim)
-- [yabai](yabai)
-- [zsh](zsh)
+- [windows](windows) | [linux](linux) | [ios](ios) | [docker](docker) | [fonts](fonts)
+- [iterm2](iterm2) | [latex](latex) | [LICENSE](LICENSE) | [makefile](makefile) | [nvim](nvim)
+- [p10k](p10k) | [readme](readme) | [README.md](README.md) | [sh](sh) | [vim](vim)
+- [yabai](yabai) | [zsh](zsh)
 
 ## Video
 - Este es mi Video más reciente en YouTube
