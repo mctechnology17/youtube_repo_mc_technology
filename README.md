@@ -188,7 +188,7 @@ Los aportes por supuesto que tambien son bienbenidos!
 - [windows](windows) | [linux](linux) | [ios](ios) | [docker](docker) | [fonts](fonts) | [iterm2](iterm2) | [latex](latex) | [makefile](makefile) | [nvim](nvim)
 - [p10k](p10k) | [readme](readme) | [README.md](README.md) | [sh](sh) | [vim](vim) | [yabai](yabai) | [zsh](zsh)
 
-<h3 align="center"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
+<h3 align="center"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/0101.GIF" width="25px" height="25px"> Lenguajes y herramientas</h3>
 <p align="center">
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>
