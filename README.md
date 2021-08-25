@@ -1,20 +1,20 @@
 [![MC Technology](https://github.com/mctechnology17/mctechnology17/blob/main/src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
 
-<h1 align="center">Hi there, I'm Marcos - MC Technology <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Marcos - MC Technology <img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/wave.gif" width="30px"></h1>
 
 <table align="right">
 <tr>
 <td>
 
-[<img align="left" alt="mctechnology17.com" width="22px" src="./src/web.png" />][website]
-[<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
-[<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
-[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
-[<img align="left" alt="@mctechnology17 | Tiktok" width="22px" src="./src/tiktok.png" />][tiktok]
-[<img align="left" alt="@mctechnology17 | Twicht" width="22px" src="./src/twitch.png" />][twitch]
-[<img align="left" alt="@mctechnology17 | Telegram" width="22px" src="./src/telegram.png" />][telegram]
-[<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
+[<img align="left" alt="mctechnology17.com" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/web.png" />][website]
+[<img align="left" alt="MC Technology | YouTube" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/youtube.png" />][youtube]
+[<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/twitter.png" />][twitter]
+[<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/instagram.png" />][instagram]
+[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/facebook.png" />][facebook]
+[<img align="left" alt="@mctechnology17 | Tiktok" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/tiktok.png" />][tiktok]
+[<img align="left" alt="@mctechnology17 | Twicht" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/twitch.png" />][twitch]
+[<img align="left" alt="@mctechnology17 | Telegram" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/telegram.png" />][telegram]
+[<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/reddit.png" />][reddit]
 
 </td>
 </tr>
@@ -34,15 +34,15 @@
 
 ---
 
-<h3 align="center"><img src="./src/cabeza.GIF" width="30px" height="30px"> Latest Projects</h3>
+<h3 align="center"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/cabeza.GIF" width="30px" height="30px"> Latest Projects</h3>
 
 <tr>
 <td>
 
-[<img align="left" alt="youtuberepo | YouTube Repo" width="50px" src="./src/youtube_alternativ.png" />][youtuberepo]
+[<img align="left" alt="youtuberepo | YouTube Repo" width="50px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/youtube_alternativ.png" />][youtuberepo]
 
 </td>
-<img align="right" alt=yomero" width="450px" height="450px" src="./src/pokemon.GIF">
+<img align="right" alt=yomero" width="450px" height="450px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/pokemon.GIF">
 <td> <h4 align="left"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology" target="_blank"><code>YouTube Repo</code></a> </h4>
   <details>
     <summary>see more...</summary>
@@ -57,7 +57,7 @@
 <tr>
 <td>
 
-[<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />][vimtools]
+[<img align="left" alt="vimtools | VimTools" width="50px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/vim.png" />][vimtools]
 
 </td>
 <td> <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
@@ -72,7 +72,7 @@
 <tr>
 <td>
 
-[<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="50px" src="./src/cydia7.png" />][jailbreakrepo]
+[<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="50px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/cydia7.png" />][jailbreakrepo]
 
 </td>
 <td> <h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
@@ -86,7 +86,7 @@
 <tr>
 <td>
 
-[<img align="left" alt="uiswitch | UI Glitch" width="50px" src="./src/uiglitch.png" />][uiglitch]
+[<img align="left" alt="uiswitch | UI Glitch" width="50px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/uiglitch.png" />][uiglitch]
 
 </td>
 <td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
@@ -105,7 +105,7 @@
 <tr>
 <td>
 
-[<img align="left" alt="uiswitches | UI Switches" width="50px" src="./src/uiswitches.png" />][uiswitches]
+[<img align="left" alt="uiswitches | UI Switches" width="50px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/uiswitches.png" />][uiswitches]
 
 </td>
 <td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4>
@@ -123,7 +123,7 @@
 <tr>
 <td>
 
-[<img align="left" alt="uibadge | UI Babge" width="50px" src="./src/uibadge.png" />][uibadge]
+[<img align="left" alt="uibadge | UI Babge" width="50px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/uibadge.png" />][uibadge]
 
 </td>
 <td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uibadge/" target="_blank"><code>UI Badge</code></a> </h4>
@@ -139,7 +139,7 @@
   </details> </td>
 </tr>
 
-<h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
+<h3 align="center"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
 <p align="center">
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>
@@ -161,15 +161,9 @@
 </p>
 
 ---
-
-<h3 align="left"><img src="./src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
+<h3 align="left"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
 
 <!-- YOUTUBE:START -->
-- [Personalizar Linux, Mac, iPhone y iPad con Neofetch en español | MC Technology](https://www.youtube.com/watch?v=gKkFuM8Ky1I)
-- [Instalar HomeBrew en MacOS | MC Technology](https://www.youtube.com/watch?v=eLCvV_-i8QE)
-- [UI Glitch the best animated theme for iOS | MC Technology](https://www.youtube.com/watch?v=rHfMTch21zE)
-- [Teclado con 10,000 Emojis GRATIS](https://www.youtube.com/watch?v=4ekjNF4AArE)
-- [INSTALA DEB CON FILZA en iOS 13.x.x con Checkra1n o Unc0ver](https://www.youtube.com/watch?v=eduu_qCATDY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
