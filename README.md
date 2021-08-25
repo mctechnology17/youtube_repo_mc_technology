@@ -25,8 +25,7 @@
 
 ### 🔬 Clínico Bioanalista y actualmente estoy cursando un Máster en Bioinformática 💻!!
 - 🦾 Me encanta el powerlifting!
-- 🤓  Actualmente estoy aprendiendo todo
-- 👾  Tengo mucha curiosidad y por eso empiezas a estudiar programación
+- 🤓 Actualmente estoy aprendiendo muchas cosas sobre programación!
 - 🗒  Actualmente estoy muy obsesionado con el aprendizaje de vimscript
 </details>
 
@@ -163,8 +162,8 @@
 ## Acerca de este repositorio
 - Este es un repositorio para subir material
   o contenido que explico en mi canal de [YouTube](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber).
-  Si aun no estas suscrito, te puedes suscribira aún, es gratis :D!
-  eso me ayudaría a motivarme mucho para seguir subiendo contenido.
+  Si aún no estas suscrito a mi canal, te puedes suscribir [aquí](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber),
+  eso me ayudaría mucho y me motiva para seguir subiendo contenido al canal.
 
 ---
 
@@ -183,7 +182,8 @@
 ---
 
 ## Archivos
-Aqui encuentras los archivos del repositorio, como `.vimrc init.vim .zshrc` entre otros.
+Aquí encuentras mis archivos o configuraciones personales que uso en mi día a día
+como `.vimrc init.vim .zshrc` entre otros.
 Los aportes por supuesto que tambien son bienbenidos!
 - [windows](windows) | [linux](linux) | [ios](ios) | [docker](docker) | [fonts](fonts) | [iterm2](iterm2) | [latex](latex) | [makefile](makefile) | [nvim](nvim)
 - [p10k](p10k) | [readme](readme) | [README.md](README.md) | [sh](sh) | [vim](vim) | [yabai](yabai) | [zsh](zsh)
