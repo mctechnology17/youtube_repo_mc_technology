@@ -98,11 +98,19 @@
     <summary>ver más...</summary>
 
     UI Glitch está aquí !!!
-    Dale a tu iPhone un aspecto diferente con UI Glitch.
-    ¡La familia UI de MC Technology! ¡Diseñado para los amantes de la interfaz de usuario!
-    ¡Con UI Glitch puedes obtener una combinación exquisita para complementar tus temas!
-    ¡Más de 20 tonos con diferentes grados de opacidad y colores!
-    ¡Compatibilidad con miles de temas! ¡Incluye un tema animado exclusivo!
+    Dale a tu iPhone un aspecto diferente
+    con UI Glitch.
+    ¡La familia UI de MC Technology!
+    ¡Diseñado para los amantes
+    de la interfaz de usuario!
+    ¡Con UI Glitch puedes obtener
+    una combinación exquisita
+    para complementar tus temas!
+    ¡Más de 20 tonos
+    con diferentes grados
+    de opacidad y colores!
+    ¡Compatibilidad con miles de temas!
+    ¡Incluye un tema animado exclusivo!
 
   </details> </td>
 </tr>
@@ -117,10 +125,13 @@
     <summary>ver más...</summary>
 
     UI Switches
-    ¡Dale a tu iPhone un aspecto diferente con UI Cambia la familia UI de MC Technology! ¡Diseñado para los amantes de la interfaz de usuario!
+    ¡Dale a tu iPhone un aspecto diferente con UI Cambia la familia UI de MC Technology!
+    ¡Diseñado para los amantes de la interfaz de usuario!
     ¿Cómo utilizar los interruptores de la interfaz de usuario?
-    Instale la extensión de la interfaz de usuario de Snowboard y Snowboard desde el repositorio de Spark.
-    A continuación, active los interruptores de la interfaz de usuario desde la configuración de Snowboard y disfrute :D!
+    Instale la extensión de la interfaz de usuario de
+    Snowboard y Snowboard desde el repositorio de Spark.
+    A continuación, active los interruptores de la interfaz de usuario
+    desde la configuración de Snowboard y disfrute :D!
     O use iThemer o Anemone para la activación
 
   </details> </td>
@@ -136,10 +147,13 @@
     <summary>ver más...</summary>
 
     UI Badge + Badgemoji
-    ¡Aporta un aspecto genial a tu iPhone y deja el aburrimiento! ¡Diseñado para los amantes de la interfaz de usuario!
+    ¡Aporta un aspecto genial a tu iPhone y deja el aburrimiento!
+    ¡Diseñado para los amantes de la interfaz de usuario!
     ¿Cómo usar UI Badge y Badgemoji?
-    Instale la extensión de la interfaz de usuario de Snowboard y Snowboard para la función de interfaz de usuario desde el repositorio de Spark.
-    Luego activa las Insignias desde la configuración de Snowboard y disfruta: ¡D! ¡O use iThemer o Anemone para la activación!
+    Instale la extensión de la interfaz de usuario de
+    Snowboard y Snowboard para la función de interfaz de usuario desde el repositorio de Spark.
+    Luego activa las Insignias desde la configuración de Snowboard y disfruta: ¡D!
+    ¡O use iThemer o Anemone para la activación!
 
   </details> </td>
 </tr>
