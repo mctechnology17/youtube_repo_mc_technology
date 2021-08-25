@@ -139,6 +139,40 @@
   </details> </td>
 </tr>
 
+---
+<h3 align="left"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
+
+<!-- YOUTUBE:START -->
+- [Personalizar Linux, Mac, iPhone y iPad con Neofetch en español | MC Technology](https://www.youtube.com/watch?v=gKkFuM8Ky1I)
+- [Instalar HomeBrew en MacOS | MC Technology](https://www.youtube.com/watch?v=eLCvV_-i8QE)
+- [UI Glitch the best animated theme for iOS | MC Technology](https://www.youtube.com/watch?v=rHfMTch21zE)
+- [Teclado con 10,000 Emojis GRATIS](https://www.youtube.com/watch?v=4ekjNF4AArE)
+- [INSTALA DEB CON FILZA en iOS 13.x.x con Checkra1n o Unc0ver](https://www.youtube.com/watch?v=eduu_qCATDY)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
+
+---
+
+- [Introducción](#Introducción)
+- [Archivos de Respositorio](#Archivos)
+- [Ultimo video subido a YouTube](#Video)
+- [Licencia](#Licencia)
+
+----
+
+## Introducción
+- Este es un repositorio para subir material
+  o contenido que explico en mi canal de [YouTube](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber).
+  Si aun no estas suscrito, te puedes suscribira aún, es gratis :D!
+  eso me ayudaría a motivarme mucho para seguir subiendo contenido
+
+## Archivos
+Aqui encuentras los archivos del repositorio, como `.vimrc, init.vim, .zshrc` entre otros.
+Los aportes por supuesto que tambien son bienbenidos!
+- [windows](windows) | [linux](linux) | [ios](ios) | [docker](docker) | [fonts](fonts) | [iterm2](iterm2) | [latex](latex) | [LICENSE](LICENSE) | [makefile](makefile) | [nvim](nvim)
+- [p10k](p10k) | [readme](readme) | [README.md](README.md) | [sh](sh) | [vim](vim) | [yabai](yabai) | [zsh](zsh)
+
 <h3 align="center"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
 <p align="center">
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
@@ -159,48 +193,6 @@
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>
 </p>
-
----
-<h3 align="left"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
-
-<!-- YOUTUBE:START -->
-- [Personalizar Linux, Mac, iPhone y iPad con Neofetch en español | MC Technology](https://www.youtube.com/watch?v=gKkFuM8Ky1I)
-- [Instalar HomeBrew en MacOS | MC Technology](https://www.youtube.com/watch?v=eLCvV_-i8QE)
-- [UI Glitch the best animated theme for iOS | MC Technology](https://www.youtube.com/watch?v=rHfMTch21zE)
-- [Teclado con 10,000 Emojis GRATIS](https://www.youtube.com/watch?v=4ekjNF4AArE)
-- [INSTALA DEB CON FILZA en iOS 13.x.x con Checkra1n o Unc0ver](https://www.youtube.com/watch?v=eduu_qCATDY)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
-
----
-
-- [Introducción](#Introducción)
-- [Estructura de Respositorio](#Estructura)
-- [Ultimo video subido a YouTube](#Video)
-- [Licencia](#Licencia)
-
-----
-
-## Introducción
-- Este es un repositorio para subir material
-  o contenido que explico en mi canal de [YouTube](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber).
-  Si aun no estas suscrito, te puedes suscribira aún, es gratis :D!
-  eso me ayudaría a motivarme mucho para seguir subiendo contenido
-
-## Estructura
-Aqui encuentras una estructura de la repo de los archivos subidos.
-- [windows](windows) | [linux](linux) | [ios](ios) | [docker](docker) | [fonts](fonts)
-- [iterm2](iterm2) | [latex](latex) | [LICENSE](LICENSE) | [makefile](makefile) | [nvim](nvim)
-- [p10k](p10k) | [readme](readme) | [README.md](README.md) | [sh](sh) | [vim](vim)
-- [yabai](yabai) | [zsh](zsh)
-
-## Video
-- Este es mi Video más reciente en YouTube
-[![Mira el video aquí](https://i.ytimg.com/vi/gKkFuM8Ky1I/maxresdefault.jpg)](https://www.youtube.com/watch?v=gKkFuM8Ky1I&t=88s)
-
-- Este es mi Video más visto en YouTube
-[![Mira el video aquí](https://i.ytimg.com/vi/KQ7OgQYRgZc/maxresdefault.jpg)](https://www.youtube.com/watch?v=KQ7OgQYRgZc)
 
 ## Licencia
 [Licencia](./LICENSE)
