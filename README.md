@@ -47,10 +47,11 @@
   <details>
     <summary>ver más...</summary>
 
-    A nice repository to share my knowledge
-    and help the development community on
-    youtube with what I have learned so far.
-    Contributions are also very welcome :D !
+    Un repositorio para compartir códigos etc...
+    y ayudar a la comunidad de desarrollo
+    atravéz de YouTube
+    con lo que he aprendido hasta ahora.
+    Contribuciones también son bienvenidas :D!
 
   </details> </td>
 </tr>
@@ -64,8 +65,10 @@
   <details>
     <summary>ver más...</summary>
 
-    VimTools is a plugin to complement your editor
-    favorite text / code vim, vi, nvim, Gvim or MacVim.
+    VimTools:
+    un complemento para tu editor
+    texto / código favorito
+    vim, vi, nvim, Gvim o MacVim.
 
   </details> </td>
 </tr>
@@ -79,7 +82,8 @@
   <details>
     <summary>ver más...</summary>
 
-    A small contribution to the Jailbreaker community
+    Una pequeña contribución
+    a la comunidad de Jailbreaker
 
   </details> </td>
 </tr>
@@ -93,12 +97,12 @@
   <details>
     <summary>ver más...</summary>
 
-    UI Glitch is here!!!
-    Give your iPhone a different look with UI Glitch.
-    The UI family by MC Technology! Designed for UI lovers!
-    With UI Glitch you can get an exquisite combination to complement your themes!
-    More than 20 Shades with different degrees of opacity and colors!
-    Compatibility with thousands of themes!  Includes an exclusive animated theme!
+    UI Glitch está aquí !!!
+    Dale a tu iPhone un aspecto diferente con UI Glitch.
+    ¡La familia UI de MC Technology! ¡Diseñado para los amantes de la interfaz de usuario!
+    ¡Con UI Glitch puedes obtener una combinación exquisita para complementar tus temas!
+    ¡Más de 20 tonos con diferentes grados de opacidad y colores!
+    ¡Compatibilidad con miles de temas! ¡Incluye un tema animado exclusivo!
 
   </details> </td>
 </tr>
@@ -113,10 +117,11 @@
     <summary>ver más...</summary>
 
     UI Switches
-    Give your iPhone a different look with UI Switches the UI family by MC Technology! Designed for UI lovers!
-    How to use UI Switches?  Install Snowboard and Snowboard UI extension from Spark’s repo.
-    Then activate the UI Switches from the Snowboard settings respring and enjoy :D !
-    Or use iThemer or Anemone for activation
+    ¡Dale a tu iPhone un aspecto diferente con UI Cambia la familia UI de MC Technology! ¡Diseñado para los amantes de la interfaz de usuario!
+    ¿Cómo utilizar los interruptores de la interfaz de usuario?
+    Instale la extensión de la interfaz de usuario de Snowboard y Snowboard desde el repositorio de Spark.
+    A continuación, active los interruptores de la interfaz de usuario desde la configuración de Snowboard y disfrute :D!
+    O use iThemer o Anemone para la activación
 
   </details> </td>
 </tr>
@@ -131,10 +136,10 @@
     <summary>ver más...</summary>
 
     UI Badge + Badgemoji
-    Brings a cool look to your iPhone and leave the boredom! Designed for UI lovers!
-    How to use UI Badge and Badgemoji?
-    Install Snowboard and Snowboard UI extension for the UI function from Spark’s repo.
-    Then activate the Badges from the Snowboard settings and enjoy :D! Or use iThemer or Anemone for activation!
+    ¡Aporta un aspecto genial a tu iPhone y deja el aburrimiento! ¡Diseñado para los amantes de la interfaz de usuario!
+    ¿Cómo usar UI Badge y Badgemoji?
+    Instale la extensión de la interfaz de usuario de Snowboard y Snowboard para la función de interfaz de usuario desde el repositorio de Spark.
+    Luego activa las Insignias desde la configuración de Snowboard y disfruta: ¡D! ¡O use iThemer o Anemone para la activación!
 
   </details> </td>
 </tr>
