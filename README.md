@@ -185,7 +185,7 @@
 ## Archivos
 Aqui encuentras los archivos del repositorio, como `.vimrc init.vim .zshrc` entre otros.
 Los aportes por supuesto que tambien son bienbenidos!
-- [windows](windows) | [linux](linux) | [ios](ios) | [docker](docker) | [fonts](fonts) | [iterm2](iterm2) | [latex](latex) | [LICENSE](LICENSE) | [makefile](makefile) | [nvim](nvim)
+- [windows](windows) | [linux](linux) | [ios](ios) | [docker](docker) | [fonts](fonts) | [iterm2](iterm2) | [latex](latex) | [makefile](makefile) | [nvim](nvim)
 - [p10k](p10k) | [readme](readme) | [README.md](README.md) | [sh](sh) | [vim](vim) | [yabai](yabai) | [zsh](zsh)
 
 <h3 align="center"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
