@@ -170,7 +170,7 @@
 <h3 align="left"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/youtube.gif" width="70px" height="25px"> últimos videos</h3>
 
 <!-- YOUTUBE:START -->
-- [Como configurar VIM como Pro](https://www.youtube.com/watch?v=UjrXySb2T-w)
+- [Como configurar VIM como Pro | MC Technology](https://www.youtube.com/watch?v=UjrXySb2T-w)
 - [Personalizar Linux, Mac, iPhone y iPad con Neofetch en español | MC Technology](https://www.youtube.com/watch?v=gKkFuM8Ky1I)
 - [Instalar HomeBrew en MacOS | MC Technology](https://www.youtube.com/watch?v=eLCvV_-i8QE)
 - [UI Glitch the best animated theme for iOS | MC Technology](https://www.youtube.com/watch?v=rHfMTch21zE)
