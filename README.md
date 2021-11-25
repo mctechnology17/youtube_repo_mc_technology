@@ -6,14 +6,10 @@
 <tr>
 <td>
 
-[<img align="left" alt="mctechnology17.com" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/web.png" />][website]
 [<img align="left" alt="MC Technology | YouTube" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/youtube.png" />][youtube]
 [<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/twitter.png" />][twitter]
 [<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/instagram.png" />][instagram]
 [<img align="left" alt="MC Technology17 | Facebook" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/facebook.png" />][facebook]
-[<img align="left" alt="@mctechnology17 | Tiktok" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/tiktok.png" />][tiktok]
-[<img align="left" alt="@mctechnology17 | Twicht" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/twitch.png" />][twitch]
-[<img align="left" alt="@mctechnology17 | Telegram" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/telegram.png" />][telegram]
 [<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/reddit.png" />][reddit]
 
 </td>
@@ -211,14 +207,10 @@ Los aportes por supuesto que tambien son bienbenidos!
 
 <h3 align="right"> <a href="https://github.com/mctechnology17/youtube_repo_mc_technology/blob/main/LICENSE" target="_blank"><code>LICENCIA</code></a> </h3>
 
-[website]: https://mctechnology17.com
 [twitter]: https://twitter.com/mctechnology17
 [youtube]: https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw?view_as=subscriber
 [instagram]: https://www.instagram.com/mctechnology17/
-[twitch]: https://www.twitch.tv/mctechnology17
-[tiktok]: https://www.tiktok.com/@mctechnology17
 [facebook]: https://m.facebook.com/mctechnology17/
-[telegram]: https://t.me/mctechnology
 [reddit]:https://www.reddit.com/user/mctechnology17
 
 [vimtools]: https://github.com/mctechnology17/vimtools
